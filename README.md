@@ -2,18 +2,18 @@
 follow UCI CS238P Operating System
 Course Page: http://www.ics.uci.edu/~aburtsev/238P/
 
-Implement: 
+Built a unix system
 
-shell
+shell level:
 http://www.ics.uci.edu/~aburtsev/238P/hw/hw1-shell.html
 
-dump + system call
+dump + system call level:
 http://www.ics.uci.edu/~aburtsev/238P/hw/hw3-dump-pid-syscall.html
 
-kernel threads and synchronize
+kernel threads and synchronize:
 http://www.ics.uci.edu/~aburtsev/238P/hw/hw4-threads.html
 
-large file
+large file system:
 http://www.ics.uci.edu/~aburtsev/238P/hw/extra.html
 
 xv6 kernel fully code comments
