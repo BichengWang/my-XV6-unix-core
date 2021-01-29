@@ -2,7 +2,7 @@
 follow UCI CS238P Operating System
 Course Page: http://www.ics.uci.edu/~aburtsev/238P/
 
-Built a unix system
+Built XV6 Unix system
 
 shell level:
 http://www.ics.uci.edu/~aburtsev/238P/hw/hw1-shell.html
