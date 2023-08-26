@@ -1,4 +1,4 @@
-# my-xv6-unix-kernel
+# My Unix CPU Compiling Kernel Source Code
 follow UCI CS238P Operating System
 Course Page: http://www.ics.uci.edu/~aburtsev/238P/
 
