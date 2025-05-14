@@ -1,5 +1,5 @@
 # My Unix CPU Compiling Kernel Source Code
-follow UCI CS238P Operating System
+CS238P Operating System
 Course Page: http://www.ics.uci.edu/~aburtsev/238P/
 
 Built XV6 Unix system
